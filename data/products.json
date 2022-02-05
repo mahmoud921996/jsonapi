@@ -1,0 +1,187 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple iPhone 8",
+      "image": "./images/phones/iphone1.jpeg",
+      "price": 760,
+      "category": "ios",
+      "best": false
+    },
+    {
+      "id": 2,
+      "title": "Apple iPhone 11",
+      "image": "./images/phones/iphone2.jpeg",
+      "price": 960,
+      "category": "ios",
+      "best": false
+    },
+    {
+      "id": 3,
+      "title": "Apple iPhone X",
+      "image": "./images/phones/iphone3.jpeg",
+      "price": 800,
+      "category": "ios",
+      "best": false
+    },
+    {
+      "id": 4,
+      "title": "Apple iPhone 8 black",
+      "image": "./images/phones/iphone4.jpeg",
+      "price": 780,
+      "category": "ios",
+      "best": false
+    },
+    {
+      "id": 5,
+      "title": "Apple iPhone 11 pro",
+      "image": "./images/phones/iphone6.jpeg",
+      "price": 1000,
+      "category": "ios",
+      "best": true
+    },
+    {
+      "id": 6,
+      "title": "Apple iPhone 13",
+      "image": "./images/phones/iphone7.png",
+      "price": 1200,
+      "category": "ios",
+      "best": true
+    },
+    {
+      "id": 7,
+      "title": "Apple iPhone X",
+      "image": "./images/phones/iphone8.png",
+      "price": 800,
+      "category": "ios","best": false
+    },
+    {
+      "id": 8,
+      "title": "Nokia 5 ",
+      "image": "./images/phones/phone1.png",
+      "price": 750,
+      "category": "android",
+      "best": true
+    },
+    {
+      "id": 9,
+      "title": "Oppo A5",
+      "image": "./images/phones/phone2.png",
+      "price": 720,
+      "category": "android","best": false
+    },
+    {
+      "id": 10,
+      "title": "Oppo  Reno F5",
+      "image": "./images/phones/phone3.png",
+      "price": 700,
+      "category": "android",
+      "best": false
+    },
+    {
+      "id": 11,
+      "title": "xiaomi redmi 10",
+      "image": "./images/phones/phone4.png",
+      "price": 650,
+      "category": "android",
+      "best": false
+    },
+    {
+      "id": 12,
+      "title": "Samsung M31",
+      "image": "./images/phones/samsung2.jpeg",
+      "price": 550,
+      "category": "android",
+      "best": false
+
+    },
+    {
+      "id": 13,
+      "title": "Samsung A71",
+      "image": "./images/phones/samsung5.jpeg",
+      "price": 650,
+      "category": "android",
+      "best": false
+    },
+    {
+      "id": 14,
+      "title": "Xiaomi redmi note 10 pro",
+      "image": "./images/phones/xiaomi2.png",
+      "price": 650,
+      "category": "android",
+      "best": false
+    },
+    {
+      "id": 15,
+      "title": "power bank white",
+      "image": "./images/accessories/bk1.png",
+      "price": 150,
+      "category": "accessories",
+      "best": false
+    },
+    {
+      "id": 16,
+      "title": "power bank black",
+      "image": "./images/accessories/bk2.png",
+      "price": 150,
+      "category": "accessories",
+      "best": false
+    },
+    {
+      "id": 17,
+      "title": "Airpod white",
+      "image": "./images/accessories/erp1.png",
+      "price": 400,
+      "category": "accessories",
+      "best": false
+    },
+    {
+      "id": 18,
+      "title": "Airpod Orange",
+      "image": "./images/accessories/erp3.png",
+      "price": 350,
+      "category": "accessories",
+      "best": false
+    },
+    {
+      "id": 19,
+      "title": "Airpod Apple",
+      "image": "./images/accessories/erp5.png",
+      "price": 550,
+      "category": "accessories",
+      "best": false
+    },
+    {
+      "id": 20,
+      "title": "Smart watch",
+      "image": "./images/accessories/swatch1.png",
+      "price": 700,
+      "category": "accessories",
+      "best": true
+    },
+    {
+      "id": 21,
+      "title": "Smart watch 2",
+      "image": "./images/accessories/swatch2.png",
+      "price": 600,
+      "category": "accessories",
+      "best": false
+    },
+    {
+      "id": 22,
+      "title": "Smart watch White",
+      "image": "./images/accessories/watch2.png",
+      "price": 730,
+      "category": "accessories",
+      "best": false
+    },
+    {
+      "id": 23,
+      "title": "Smart watch sony",
+      "image": "./images/accessories/watch3.png",
+      "price": 540,
+      "category": "accessories",
+      "best": false
+    }
+  ]
+}
